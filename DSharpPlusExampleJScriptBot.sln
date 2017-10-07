@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E452EBF3-3BBB-4A96-B835-AE6ECAEAB859}") = "DSharpPlusExampleJScriptBot", "DSharpPlusExampleJScriptBot\DSharpPlusExampleJScriptBot.jsnproj", "{C677CF2F-C412-431F-9383-B5490E74144A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C677CF2F-C412-431F-9383-B5490E74144A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C677CF2F-C412-431F-9383-B5490E74144A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C677CF2F-C412-431F-9383-B5490E74144A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C677CF2F-C412-431F-9383-B5490E74144A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C24B475F-CF92-4D9B-8A64-E34DD52767EB}
+	EndGlobalSection
+EndGlobal
